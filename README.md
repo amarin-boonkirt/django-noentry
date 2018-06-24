@@ -1,0 +1,2 @@
+# django-noentry
+no entry
