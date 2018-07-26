@@ -10,6 +10,7 @@ RUN apt-get install python-dev libmysqlclient-dev -y
 RUN apt-get install tesseract-ocr -y
 RUN apt-get install tesseract-ocr-eng -y
 RUN apt-get install imagemagick -y
+RUN apt-get install python-pyodbc
 
 RUN mkdir -p /app
 WORKDIR /app
