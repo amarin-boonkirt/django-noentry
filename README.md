@@ -1,5 +1,5 @@
 # django-noentry
-no entry 
+django no entry 
 
 ## docker run
 ```
